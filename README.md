@@ -1,6 +1,7 @@
 ---
 cover: >-
-  .gitbook/assets/1642168326-bsv-academy-graduate-reviews-and-recommendations-bitcoin-theory-course-bsv-academy-blog.jpeg
+  landing
+  page/.gitbook/assets/1642168326-bsv-academy-graduate-reviews-and-recommendations-bitcoin-theory-course-bsv-academy-blog.jpeg
 coverY: 0
 ---
 
@@ -10,7 +11,7 @@ Bitcoin is a revolutionary technology and can be quite complex; for most people,
 
 Our goal is to:
 
-* &#x20;Strengthen and expand existing sources.
+* Strengthen and expand existing sources.
 * Grow the overall talent pool and skills base for Bitcoin.
 * Offer training appropriate for all skill levels, from introductory Bitcoin blockchain courses through to expert-level material.
 * Make it easier to on-board staff for businesses, enterprise and all other industry participants.
@@ -41,7 +42,7 @@ Bitcoin Basics: Protocol and Design will introduce students to the Bitcoin Ledge
 [BSV Enterprise](https://app.gitbook.com/o/XRhTy6ZTa7k6aGkXcfRv/s/SowI2r7uLdiXxYnm35vZ/)
 {% endcontent-ref %}
 
-Introduction to Bitcoin Enterprise focuses on the revolutionary potential of Bitcoin to radically transform many aspects of legacy enterprise.&#x20;
+Introduction to Bitcoin Enterprise focuses on the revolutionary potential of Bitcoin to radically transform many aspects of legacy enterprise.
 
 #### Bitcoin Primitives
 
@@ -57,7 +58,7 @@ Introduction to Bitcoin Enterprise focuses on the revolutionary potential of Bit
 [Digital Signatures](https://app.gitbook.com/o/XRhTy6ZTa7k6aGkXcfRv/s/2YO1nWHXVxs63Boja1m7/)
 {% endcontent-ref %}
 
-The Bitcoin Primitives courses  are to be considered akin to bridging courses for students without a formal background in computer science so that they may fully understand some techniques from the field which have been deployed in Bitcoin. These three primitives courses cover Hash Functions, Merkle Trees and Digital Signatures.
+The Bitcoin Primitives courses are to be considered akin to bridging courses for students without a formal background in computer science so that they may fully understand some techniques from the field which have been deployed in Bitcoin. These three primitives courses cover Hash Functions, Merkle Trees and Digital Signatures.
 
 ### Bitcoin Theory
 
@@ -85,7 +86,4 @@ Introduction to Bitcoin Script provides a detailed exploration of the Forth-base
 [BSV Infrastructure](https://app.gitbook.com/o/XRhTy6ZTa7k6aGkXcfRv/s/d2UA3B5kxmyVnRK7KO8W/)
 {% endcontent-ref %}
 
-The Bitcoin Infrastructure stream starts with the Introduction to Bitcoin Infrastructure which will be fundamental foundational knowledge for anyone seeking to operate in bitcoin mining or leveraging the network capabilities of Bitcoin to serve as information technology infrastructure. The course takes students through the bitcoin protocol rules to ensure they understand which parameters of the node client they can configure and which are immutable consensus rules that need to be upheld to allow you to operate within the small world network of miners.&#x20;
-
-
-
+The Bitcoin Infrastructure stream starts with the Introduction to Bitcoin Infrastructure which will be fundamental foundational knowledge for anyone seeking to operate in bitcoin mining or leveraging the network capabilities of Bitcoin to serve as information technology infrastructure. The course takes students through the bitcoin protocol rules to ensure they understand which parameters of the node client they can configure and which are immutable consensus rules that need to be upheld to allow you to operate within the small world network of miners.
