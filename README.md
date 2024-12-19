@@ -1,6 +1,6 @@
 # BSV Academy
 
-Bitcoin is a revolutionary technology and can be quite complex; for most people, it’s a steep learning curve - but it doesn’t have to be. As part of the BSV Assocation, BSV Academy has curated a range of educational information and resources to establish a curriculum, from which training modules and courses have been developed to best serve the needs of the BSV community.
+Bitcoin is a revolutionary technology and can be quite complex; for most people, it’s a steep learning curve - but it doesn’t have to be. As part of the BSV Association, BSV Academy has curated a range of educational information and resources to establish a curriculum, from which training modules and courses have been developed to best serve the needs of the BSV community.
 
 Our goal is to:
 
